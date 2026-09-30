@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Equity & Seating Dashboard",
+  "description": "Interactive classroom seating chart and equity tracker to record student contributions, monitor participation balance, and sync rosters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
